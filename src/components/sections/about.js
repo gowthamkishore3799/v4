@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'Node.js',
+    'Go',
+    'SQL Databases',
+    'Kafka',
+    'Redis',
+    'NoSQL Databases',
+    'Docker',
+    'Azure ',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,31 +146,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Gowtham Kishore and currently purusing my masters degree in computer
-              and information sciences from california State Unitverisyt. I am a software engineer
-              who loves interest in web development started back in 2012 when I decided to try
-              editing custom Tumblr themes — turns out hacking together a custom reblog button
-              taught me a lot about HTML &amp; CSS!
+              Hello! I'm Gowtham Kishore, currently pursuing my master's degree in Computer Science
+              at California State University. My journey as a software engineer began in 2018 with
+              my college projects, sparking a deep passion for product development. This passion
+              continues to drive my curiosity and innovation in the field.
+            </p>
+            <p>
+              As an enthusiastic software engineer, I am passionate about contributing to software
+              products that have a positive impact on the community. This drive has been evident in
+              the projects I've worked on before.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I have contributed to both frontend development and infrastructure scaling, majorly in
+              backend, utilizing my tech stack of React.js and CI/CD pipelines to deliver robust and
+              scalable solutions based on project requirements.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I am currently seeking exciting internships and full-time opportunities. With a strong
+              technical background and a passion for innovative solutions, I am eager to contribute
+              and learn in a dynamic team environment.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

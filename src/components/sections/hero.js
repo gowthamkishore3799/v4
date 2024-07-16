@@ -3,6 +3,7 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
+import { email } from '@config';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -71,12 +72,20 @@ const Hero = () => {
         My relentless curiosity and passion for technology drive me to constantly learn and adopt
         new technologies, enabling me to achieve objectives more efficiently and innovate
         continually. I thrive on solving challenging problems and delivering robust, high-quality
-        solutions. .
+        solutions.
       </p>
     </>
   );
 
-  const items = [one, two, three, four];
+  const five = (
+    <>
+      <a className="email-link" href={`mailto:${email}`}>
+        Contact me
+      </a>
+    </>
+  );
+
+  const items = [one, two, three, four, five];
 
   return (
     <StyledHeroSection>
