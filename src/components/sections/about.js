@@ -147,9 +147,13 @@ const About = () => {
           <div>
             <p>
               Hello! I'm Gowtham Kishore, currently pursuing my master's degree in Computer Science
-              at California State University. My journey as a software engineer began in 2018 with
-              my college projects, sparking a deep passion for product development. This passion
-              continues to drive my curiosity and innovation in the field.
+              at{' '}
+              <a href="https://www.csusb.edu/" target="_blank" rel="noreferrer">
+                California State University
+              </a>
+              . My journey as a software engineer began in 2018 with my college projects, sparking a
+              deep passion for product development. This passion continues to drive my curiosity and
+              innovation in the field.
             </p>
             <p>
               As an enthusiastic software engineer, I am passionate about contributing to software

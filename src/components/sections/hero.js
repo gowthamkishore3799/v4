@@ -66,13 +66,15 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Currently pursuing a Masters of Science in Computer Science from the California State
-        University, As a tech enthusiast with a proven track record in building complex systems, I
-        ensure the highest standards of scalability, reliability, and performance in every project.
-        My relentless curiosity and passion for technology drive me to constantly learn and adopt
-        new technologies, enabling me to achieve objectives more efficiently and innovate
-        continually. I thrive on solving challenging problems and delivering robust, high-quality
-        solutions.
+        Currently pursuing a Masters of Science in Computer Science from the{' '}
+        <a href="https://www.csusb.edu/" target="_blank" rel="noreferrer">
+          California State University
+        </a>
+        , As a tech enthusiast with a proven track record in building complex systems, I ensure the
+        highest standards of scalability, reliability, and performance in every project. My
+        relentless curiosity and passion for technology drive me to constantly learn and adopt new
+        technologies, enabling me to achieve objectives more efficiently and innovate continually. I
+        thrive on solving challenging problems and delivering robust, high-quality solutions.
       </p>
     </>
   );
@@ -80,7 +82,7 @@ const Hero = () => {
   const five = (
     <>
       <a className="email-link" href={`mailto:${email}`}>
-        Contact me
+        Connect with Me
       </a>
     </>
   );

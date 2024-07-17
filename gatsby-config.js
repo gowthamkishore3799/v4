@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Gowtham Kishore is a software engineer who specializes in building (and occasionally designing) exceptional software priduct experiences.',
     siteUrl: 'https://main.d2oad3q6c1zdob.amplifyapp.com/', // No trailing slash allowed!
-    image: '/demo.png', // Path to your image you placed in the 'static' folder,
+    image: '/game.png', // Path to your image you placed in the 'static' folder,
     twitterUsername: '@bchiang7',
   },
   plugins: [
