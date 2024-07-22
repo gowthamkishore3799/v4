@@ -70,11 +70,12 @@ const Hero = () => {
         <a href="https://www.csusb.edu/" target="_blank" rel="noreferrer">
           California State University
         </a>
-        , As a tech enthusiast with a proven track record in building complex systems, I ensure the
-        highest standards of scalability, reliability, and performance in every project. My
-        relentless curiosity and passion for technology drive me to constantly learn and adopt new
-        technologies, enabling me to achieve objectives more efficiently and innovate continually. I
-        thrive on solving challenging problems and delivering robust, high-quality solutions.
+        , As an software engineer, I am passionate about contributing to the projects that have a
+        positive impact on the community which makes me to ensure that products are of highest
+        standards of scalability, reliability, and performance. My relentless curiosity and passion
+        for technology drive me to constantly learn and adopt new technologies, enabling me to
+        achieve objectives more efficiently. I thrive on solving challenging problems and delivering
+        robust, high-quality solutions.
       </p>
     </>
   );
