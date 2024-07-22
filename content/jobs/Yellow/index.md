@@ -8,9 +8,9 @@ url: 'https://yellow.ai/'
 ---
 
 - Designed, developed, and deployed NLP-driven conversational AI solutions to automate tasks, enhance customer
-  engagement using technologies of Node JS, Express, Redis, MongoDB which helped the businesses to increase their
+  engagement which helped the businesses to increase their
   quality of customer service and reduce operational costs by 60%.
-- Integrated multiple third-party systems with the conversation AI platform, including Zendesk, using Node JS which
+- Integrated multiple third-party systems with the conversation AI platform, which
   boosted agent productivity by up to 50%.
 - Developed a monitoring solution for conversational AI components, enabling comprehensive analysis of data using
   Python streamlit which played a pivotal role in guiding the decision to build cloud.yellow.ai, promoting a low-code

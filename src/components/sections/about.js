@@ -136,6 +136,7 @@ const About = () => {
     'NoSQL Databases',
     'Docker',
     'Azure ',
+    'React',
   ];
 
   return (
@@ -155,16 +156,11 @@ const About = () => {
               deep passion for product development. This passion continues to drive my curiosity and
               innovation in the field.
             </p>
-            <p>
-              As an enthusiastic software engineer, I am passionate about contributing to software
-              products that have a positive impact on the community. This drive has been evident in
-              the projects I've worked on before.
-            </p>
 
             <p>
               I have contributed to both frontend development and infrastructure scaling, majorly in
-              backend, utilizing my tech stack of React.js and CI/CD pipelines to deliver robust and
-              scalable solutions based on project requirements.
+              backend, utilizing my tech stack to deliver robust and scalable solutions based on
+              project requirements.
             </p>
 
             <p>
