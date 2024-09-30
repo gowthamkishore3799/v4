@@ -12,7 +12,7 @@
   <a href="https://main.d2oad3q6c1zdob.amplifyapp.com/" target="_blank">v1</a>,
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/gowthamkishore3799/v4/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
