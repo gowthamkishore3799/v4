@@ -1,9 +1,9 @@
-import React, { useEffect, useRef } from 'react';
-import { StaticImage } from 'gatsby-plugin-image';
-import styled from 'styled-components';
 import { srConfig } from '@config';
-import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
+import sr from '@utils/sr';
+import { StaticImage } from 'gatsby-plugin-image';
+import React, { useEffect, useRef } from 'react';
+import styled from 'styled-components';
 
 const StyledAboutSection = styled.section`
   max-width: 900px;
@@ -130,12 +130,15 @@ const About = () => {
     'TypeScript',
     'Node.js',
     'Go',
+    'Python',
     'SQL Databases',
+    'NoSQL Databases',
+    'Tensorflow',
     'Kafka',
     'Redis',
-    'NoSQL Databases',
     'Docker',
     'Azure ',
+    'AWS',
     'React',
   ];
 

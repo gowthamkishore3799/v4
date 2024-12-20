@@ -1,11 +1,11 @@
-import React, { useEffect, useRef } from 'react';
-import { useStaticQuery, graphql } from 'gatsby';
-import { GatsbyImage, getImage } from 'gatsby-plugin-image';
-import styled from 'styled-components';
-import sr from '@utils/sr';
-import { srConfig } from '@config';
 import { Icon } from '@components/icons';
+import { srConfig } from '@config';
 import { usePrefersReducedMotion } from '@hooks';
+import sr from '@utils/sr';
+import { graphql, useStaticQuery } from 'gatsby';
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
+import React, { useEffect, useRef } from 'react';
+import styled from 'styled-components';
 
 const StyledProjectsGrid = styled.ul`
   ${({ theme }) => theme.mixins.resetList};
@@ -331,6 +331,10 @@ const Featured = () => {
   `);
 
   const featuredProjects = data.featured.edges.filter(({ node }) => node);
+  featuredProjects.sort(
+    (a, b) => new Date(a.node.frontmatter.date) - new Date(b.node.frontmatter.date),
+  );
+
   const revealTitle = useRef(null);
   const revealProjects = useRef([]);
   const prefersReducedMotion = usePrefersReducedMotion();

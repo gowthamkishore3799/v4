@@ -1,7 +1,7 @@
 ---
-date: '2'
+date: '3'
 title: 'Redis Leader Board Implementation'
-cover: './game.png'
+cover: './leaderboards.png'
 github: 'https://github.com/gowthamkishore3799/Leader-Board-Implementation'
 
 tech:

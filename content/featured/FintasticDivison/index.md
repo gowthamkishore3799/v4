@@ -1,9 +1,8 @@
 ---
-date: '1'
+date: '4'
 title: 'Unity Game Development'
 cover: './game.png'
 github: 'https://github.com/SE-Team-4-2024/Fin-tastic_Division'
-external: 'https://www.amazon.com/SE-Team-Spring-2024-Fin-Tastic/dp/B0D316Q5ZF/'
 tech:
   - VS Code
   - C#
