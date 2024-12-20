@@ -12,3 +12,4 @@ url: 'https://khatabuddy.com/'
 - Contributed to the creation and implementation of a dashboard, presenting customers with an extensive range of essential metrics,
   encompassing overall transactions and business locations using apache druid which empowered clients to optimize their business  
    operations through a unified, user-friendly interface for strategic decision-making.
+- Enabled dynamic invoice creation using open-source libraries, reducing setup time to under 30 seconds.

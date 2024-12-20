@@ -17,3 +17,4 @@ url: 'https://yellow.ai/'
   engagement.
 - Build a robust testing framework for our microservices, widely adopted by the teams which resulted in a 50% reduction in  
    production-level code issues.
+- Developed the "Prompt-Service" microservice to integrate multiple LLM models with usage metrics, token tracking, rate limiting, and alerting; built a reusable framework for multi-microservice consumption; implemented CI/CD automation, observability, performance optimizations, security measures, and fault tolerance mechanisms.

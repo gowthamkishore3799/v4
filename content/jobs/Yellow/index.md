@@ -15,3 +15,4 @@ url: 'https://yellow.ai/'
 - Developed a monitoring solution for conversational AI components, enabling comprehensive analysis of data using
   Python streamlit which played a pivotal role in guiding the decision to build cloud.yellow.ai, promoting a low-code
   approach and facilitating seamless transition from app.yellow.ai.
+- Collaborated with presales teams to develop a proof of concept (PoC) showcasing the capabilities of conversational AI, helping bring in new customers.
