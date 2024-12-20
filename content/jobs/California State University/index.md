@@ -11,7 +11,7 @@ url: 'https://www.csusb.edu/'
 
 - Incident Response: Addressed injuries and emergencies, supporting first aid and emergency protocols.
 
-- Operational Tasks: Compiled daily usage reports, managed rental systems, and performed light cleaning duties.
+- Operational Tasks: Compiled daily usage reports and managed rental systems for equipment and a technical locker rental system. Provided technical assistance and support for user queries, ensuring smooth operation and timely issue resolution. Facilitated user onboarding, addressed system-related concerns.
 
 - Participant Support: Assisted participants with inquiries, technical support, and access to services.
 
