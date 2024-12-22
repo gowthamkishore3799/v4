@@ -13,3 +13,4 @@ url: 'https://khatabuddy.com/'
   encompassing overall transactions and business locations using apache druid which empowered clients to optimize their business  
    operations through a unified, user-friendly interface for strategic decision-making.
 - Enabled dynamic invoice creation using open-source libraries, reducing setup time to under 30 seconds.
+- Played a key role in the development of a financial records and reporting system, helping customers optimize business operations through a seamless, data-driven interface.
