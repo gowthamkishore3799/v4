@@ -1,7 +1,7 @@
 ---
-date: '4'
+priority: '4'
 title: 'Unity Game Development'
-cover: './game.png'
+cover: './cover.png'
 github: 'https://github.com/SE-Team-4-2024/Fin-tastic_Division'
 tech:
   - VS Code

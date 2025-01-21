@@ -150,26 +150,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Gowtham Kishore, currently pursuing my master's degree in Computer Science
-              at{' '}
+              Hi! I’m Gowtham Kishore, currently pursuing my master’s degree in Computer Science at{' '}
               <a href="https://www.csusb.edu/" target="_blank" rel="noreferrer">
                 California State University
               </a>
-              . My journey as a software engineer began in 2018 with my college projects, sparking a
-              deep passion for product development. This passion continues to drive my curiosity and
-              innovation in the field.
+              . My journey as a software engineer started back in 2018 with college projects, and
+              that’s where I first discovered my passion for product development. Since then, this
+              passion has fueled my curiosity and drive to innovate in the field.
             </p>
 
             <p>
-              I have contributed to both frontend development and infrastructure scaling, majorly in
-              backend, utilizing my tech stack to deliver robust and scalable solutions based on
-              project requirements.
+              Most of my work has been focused on backend development, though I’ve also had the
+              chance to contribute to frontend projects and infrastructure scaling. I enjoy using my
+              tech stack to create robust, scalable solutions that align with the needs of the
+              project.
             </p>
 
             <p>
-              I am currently seeking exciting internships and full-time opportunities. With a strong
-              technical background and a passion for innovative solutions, I am eager to contribute
-              and learn in a dynamic team environment.
+              Right now, I’m on the lookout for exciting internship and full-time opportunities.
+              With a strong technical foundation and a genuine passion for creating innovative
+              solutions, I’m eager to contribute, collaborate, and grow in a dynamic team
+              environment.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

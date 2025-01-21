@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from 'react';
+import { email } from '@config';
+import { usePrefersReducedMotion } from '@hooks';
+import { loaderDelay, navDelay } from '@utils';
+import React, { useEffect, useState } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
-import { navDelay, loaderDelay } from '@utils';
-import { usePrefersReducedMotion } from '@hooks';
-import { email } from '@config';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -62,20 +62,26 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Gowtham Kishore</h2>;
-  const three = <h3 className="big-heading">Crafting Exceptional Software</h3>;
+  const three = (
+    <h1 className="big-heading">
+      I build scalable systems that create <i>impact</i>
+    </h1>
+  );
   const four = (
     <>
       <p>
-        Currently pursuing a Masters of Science in Computer Science from the{' '}
+        Currently pursuing a Master of Science in Computer Science at{' '}
         <a href="https://www.csusb.edu/" target="_blank" rel="noreferrer">
           California State University
         </a>
-        , As an software engineer, I am passionate about contributing to the projects that have a
-        positive impact on the community which makes me to ensure that products are of highest
-        standards of scalability, reliability, and performance. My relentless curiosity and passion
-        for technology drive me to constantly learn and adopt new technologies, enabling me to
-        achieve objectives more efficiently. I thrive on solving challenging problems and delivering
-        robust, high-quality solutions.
+        . I am a passionate software engineer eager to contribute to impactful and exciting projects
+        where .<br />
+        <br />{' '}
+        <strong>
+          I’m looking for full-time opportunities starting in May 2025, where I can use my technical
+          skills, creativity, and problem-solving abilities to make a meaningful impact while
+          continuing to learn and grow.
+        </strong>
       </p>
     </>
   );

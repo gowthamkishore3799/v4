@@ -1,7 +1,7 @@
 ---
-date: '1'
+priority: '3'
 title: 'Live Streaming Backend Services'
-cover: './livestreaming.webp'
+cover: './cover.webp'
 github: 'https://github.com/gowthamkishore3799/live-streaming'
 external: 'https://medium.com/@gowthamkishore3/from-game-to-screen-demystifying-the-magic-behind-live-streaming-with-hls-f621c758ae28'
 
