@@ -154,23 +154,22 @@ const About = () => {
               <a href="https://www.csusb.edu/" target="_blank" rel="noreferrer">
                 California State University
               </a>
-              . My journey as a software engineer started back in 2018 with college projects, and
-              that’s where I first discovered my passion for product development. Since then, this
-              passion has fueled my curiosity and drive to innovate in the field.
+              . My professional journey started back in 2018 with college projects, and that’s where
+              I first experienced my adrenaline rush after delivering a successful project. Since
+              then, there has been no turning back.
             </p>
 
             <p>
               Most of my work has been focused on backend development, though I’ve also had the
               chance to contribute to frontend projects and infrastructure scaling. I enjoy using my
               tech stack to create robust, scalable solutions that align with the needs of the
-              project.
+              project and would love to keep myself updated with various tech stacks
             </p>
 
             <p>
-              Right now, I’m on the lookout for exciting internship and full-time opportunities.
-              With a strong technical foundation and a genuine passion for creating innovative
-              solutions, I’m eager to contribute, collaborate, and grow in a dynamic team
-              environment.
+              Right now, I’m looking for exciting internship and full-time opportunities. where I
+              can contribute, collaborate, and grow in a dynamic team environment to create a
+              positive impact
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

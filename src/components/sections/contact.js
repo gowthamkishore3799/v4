@@ -1,8 +1,8 @@
+import { email, srConfig } from '@config';
+import { usePrefersReducedMotion } from '@hooks';
+import sr from '@utils/sr';
 import React, { useEffect, useRef } from 'react';
 import styled from 'styled-components';
-import { srConfig, email } from '@config';
-import sr from '@utils/sr';
-import { usePrefersReducedMotion } from '@hooks';
 
 const StyledContactSection = styled.section`
   max-width: 600px;
@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Currently I'm looking for full-time opportunities starting in December 2024, as well as
+        Currently I'm looking for full-time opportunities starting in May 2025, as well as
         internships available anytime. I'm interested in Backend Developer, Software Engineer, Cloud
         Engineer roles. If you have any relevant job opportunities or just want to say hi, feel free
         to mail me!

@@ -64,24 +64,23 @@ const Hero = () => {
   const two = <h2 className="big-heading">Gowtham Kishore</h2>;
   const three = (
     <h1 className="big-heading">
-      I build scalable systems that create <i>impact</i>
+      Building scalable solutions that makes a <i>difference</i>
     </h1>
   );
   const four = (
     <>
       <p>
-        Currently pursuing a Master of Science in Computer Science at{' '}
+        Currently pursuing Master of Science in Computer Science at{' '}
         <a href="https://www.csusb.edu/" target="_blank" rel="noreferrer">
           California State University
         </a>
-        . I am a passionate software engineer eager to contribute to impactful and exciting projects
-        where .<br />
+        . I am a engineer with a proven track record of success in dynamic environments. My
+        proficient in languages such as Node.js, Typescript and Python been pivotal in developing
+        cutting-edge software solutions for the IT industry
+        <br /> <br /> Passionate about efficiency and precision, I enjoy tackling challenging
+        projects that push me to grow while creating a meaningful impact.
+        <br />
         <br />{' '}
-        <strong>
-          I’m looking for full-time opportunities starting in May 2025, where I can use my technical
-          skills, creativity, and problem-solving abilities to make a meaningful impact while
-          continuing to learn and grow.
-        </strong>
       </p>
     </>
   );

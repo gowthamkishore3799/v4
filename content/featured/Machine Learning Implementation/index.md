@@ -1,7 +1,7 @@
 ---
 priority: '2'
 title: 'Machine learning '
-cover: './cover.jpeg'
+cover: './cover.jpg'
 github: 'https://github.com/gowthamkishore3799/ml-model'
 
 tech:
