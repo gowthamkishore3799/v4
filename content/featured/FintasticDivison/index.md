@@ -2,6 +2,7 @@
 priority: '4'
 title: 'Unity Game Development'
 cover: './cover.png'
+showProject: false
 github: 'https://github.com/SE-Team-4-2024/Fin-tastic_Division'
 tech:
   - VS Code

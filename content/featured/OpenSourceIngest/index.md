@@ -1,7 +1,8 @@
 ---
-priority: '1'
+priority: '2'
 title: 'GitIngest'
 cover: './cover.png'
+showProject: true
 github: 'https://github.com/cyclotruc/gitingest/'
 external: ''
 tech:

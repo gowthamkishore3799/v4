@@ -1,5 +1,5 @@
 ---
-priority: '5'
+priority: '4'
 title: 'Redis Leader Board Implementation'
 cover: './cover.png'
 github: 'https://github.com/gowthamkishore3799/Leader-Board-Implementation'

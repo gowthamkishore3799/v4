@@ -314,6 +314,7 @@ const Featured = () => {
           node {
             frontmatter {
               priority
+              showProject
               title
               cover {
                 childImageSharp {
@@ -331,8 +332,10 @@ const Featured = () => {
     }
   `);
 
-  const featuredProjects = data.featured.edges.filter(({ node }) => node);
-  featuredProjects.sort((a, b) => a.node.frontmatter.priority - b.node.frontmatter.priority);
+  let featuredProjects = data.featured.edges.filter(({ node }) => node);
+  featuredProjects = featuredProjects
+    .filter(a => a.node.frontmatter.showProject)
+    .sort((a, b) => a.node.frontmatter.priority - b.node.frontmatter.priority);
 
   const revealTitle = useRef(null);
   const revealProjects = useRef([]);
