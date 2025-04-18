@@ -1,7 +1,7 @@
 ---
 priority: '1'
 title: 'Octorag'
-cover: './cover.png'
+cover: './image.png'
 showProject: true
 github: 'https://github.com/gowthamkishore3799/OctoRag'
 
