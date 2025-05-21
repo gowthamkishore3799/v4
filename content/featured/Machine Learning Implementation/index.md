@@ -2,7 +2,7 @@
 priority: '4'
 title: 'Machine learning '
 cover: './cover.jpg'
-showProject: true
+showProject: false
 github: 'https://github.com/gowthamkishore3799/ml-model'
 
 tech:

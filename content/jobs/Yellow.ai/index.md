@@ -7,6 +7,7 @@ range: 'Nov 2021 - Aug 2023'
 url: 'https://yellow.ai/'
 ---
 
+<!--
 - Contributed to the architecture, development, and deployment of multiple microservices using Node.js, Express for REST APIs, Kafka, on AWS/Azure with Kubernetes for messaging, flow building, storage, user profiling, and more, boosting engagement by 60% and driving $30M in revenue
 - Implemented a multi-LLM integration microservice using TypeScript, adding rate-limiting, tracking usage, and setting up alerts, generating $130,000 in ARR from tool access
 - Created and executed a migration plan to route traffic to a new microservice using Node.js and TypeScript, enhancing observability, response times, and concurrency, reducing maintenance efforts and production issues by 50%
@@ -18,7 +19,13 @@ url: 'https://yellow.ai/'
   in ARR for access to the tool. -->
 <!-- - Led the development of a conversational designer simplifying the creation of natural conversation flows for text and voice interfaces,    eliminating extensive technical training typically required. -->
 
-- Designed and implemented scalable Rest APIs and background workers for a smart campaign zero setup platform that empowers
+<!-- - Designed and implemented scalable Rest APIs and background workers for a smart campaign zero setup platform that empowers
   businesses of all sizes to create and test personalized conversational AI campaigns at scale, resulting in a 60% boost in customer
   engagement.
-- Worked as an on-call engineer, optimizing performance through scalability, throughput, HPA setup, production bug fixes, documentation, and test suite setup
+- Worked as an on-call engineer, optimizing performance through scalability, throughput, HPA setup, production bug fixes, documentation, and test suite setup -->
+
+- Contributed to the development of multiple microservices in the main products, 'cloud.yellow.ai' and 'app.yellow.ai,' that performed alerting, message processing, message delivery, database interaction, API integration, channels interaction, and context management using Node.js, Express for REST APIs, Kafka, on AWS/Azure with Kubernetes
+- Led the architecture and development of a TypeScript-based conversational designer framework to generate and sync chat/voice flows, reducing time to market by 50% and driving $130K in investments.
+- Engineered a TypeScript-based LLM microservice integrated with MongoDB to manage model metadata, token usage, and invocation tracking—enabled secure internal integration and improved user goal completion by 25%.
+- Contributed to and led migration to the executor-cloud microservice, transitioning from legacy systems to OOP-based architecture—reduced response times and improved system clarity.
+- Served as an on-call engineer, resolving production incidents and enhancing reliability by tuning Kubernetes HPA, optimizing resource limits, improving observability, and increasing test coverage by 10%

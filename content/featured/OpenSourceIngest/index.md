@@ -1,5 +1,5 @@
 ---
-priority: '2'
+priority: '3'
 title: 'GitIngest'
 cover: './cover.png'
 showProject: true

@@ -1,5 +1,5 @@
 ---
-priority: '1'
+priority: '2'
 title: 'Octorag'
 cover: './image.png'
 showProject: true
