@@ -1,9 +1,9 @@
 ---
-date: '2021-06-01'
+date: '2024-06-01'
 title: 'Software Engineer'
 company: 'Khatabuddy'
 location: 'Remote'
-range: 'Jun2022 - July 2022 / Jun 2024 - Nov 2024'
+range: 'Jun 2022 - Oct 2022 / Jun 2024 - Nov 2024'
 url: 'https://khatabuddy.com/'
 ---
 
