@@ -1,6 +1,6 @@
 ---
 date: '2024-06-01'
-title: 'Software Engineer'
+title: 'Fouding Engineer - Part time'
 company: 'Khatabuddy'
 location: 'Remote'
 range: 'Jun 2022 - Oct 2022 / Jun 2024 - Nov 2024'
