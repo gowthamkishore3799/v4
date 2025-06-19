@@ -70,15 +70,15 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Currently pursuing Master of Science in Computer Science at{' '}
+        I am a engineer with a proven track record of success in dynamic environments. My proficient
+        in languages such as Node.js, Typescript and Python been pivotal in developing cutting-edge
+        software solutions for the IT industry
+        <br /> <br /> Passionate about efficiency and precision, I enjoy tackling challenging
+        projects that push me to grow while creating a meaningful impact. Graduated with Master of
+        Science in Computer Science at{' '}
         <a href="https://www.csusb.edu/" target="_blank" rel="noreferrer">
           California State University
         </a>
-        . I am a engineer with a proven track record of success in dynamic environments. My
-        proficient in languages such as Node.js, Typescript and Python been pivotal in developing
-        cutting-edge software solutions for the IT industry
-        <br /> <br /> Passionate about efficiency and precision, I enjoy tackling challenging
-        projects that push me to grow while creating a meaningful impact.
         <br />
         <br />{' '}
       </p>
