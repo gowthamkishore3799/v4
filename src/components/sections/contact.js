@@ -59,12 +59,7 @@ const Contact = () => {
 
       <h2 className="title">Get In Touch</h2>
 
-      <p>
-        Currently I'm looking for full-time opportunities starting in May 2025, as well as
-        internships available anytime. I'm interested in Backend Developer, Software Engineer, Cloud
-        Engineer roles. If you have any relevant job opportunities or just want to say hi, feel free
-        to mail me!
-      </p>
+      <p>If you’d like to chat about tech or just catch up, feel free to reach out!</p>
 
       <a className="email-link" href={`mailto:${email}`}>
         Connect with Me

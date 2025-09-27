@@ -167,9 +167,9 @@ const About = () => {
             </p>
 
             <p>
-              Right now, I’m looking for exciting internship and full-time opportunities. where I
-              can contribute, collaborate, and grow in a dynamic team environment to create a
-              positive impact
+              Right now, I’m currently working at CodeRabbit, an AI-powered code review platform,
+              where I contribute to building scalable systems and enabling developers to ship better
+              software with fewer bugs.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
