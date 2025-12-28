@@ -150,13 +150,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! I’m Gowtham Kishore, currently pursuing my master’s degree in Computer Science at{' '}
+              Hi! I’m Gowtham Kishore, a software engineer <br />I completed my master’s degree in
+              Computer Science in 2025 from{' '}
               <a href="https://www.csusb.edu/" target="_blank" rel="noreferrer">
-                California State University
+                California State University, San Bernardino
               </a>
               . My professional journey started back in 2018 with college projects, and that’s where
-              I first experienced my adrenaline rush after delivering a successful project. Since
-              then, there has been no turning back.
+              I first experienced the adrenaline rush of shipping real software. Since then, there
+              has been no turning back.
             </p>
 
             <p>
