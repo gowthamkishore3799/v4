@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/gowtham-kishore-gk-aa597715a/',
+      url: 'https://www.linkedin.com/in/gowtham-gk/',
     },
   ],
 

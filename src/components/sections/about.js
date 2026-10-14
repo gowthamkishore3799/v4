@@ -150,30 +150,29 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! I’m Gowtham Kishore, a software engineer <br />I completed my master’s degree in
-              Computer Science in 2025 from{' '}
+              I’m Gowtham Kishore Vijay, a Senior Software Engineer based in San Francisco. I joined
+              CodeRabbit in September 2025 and was promoted in August 2026. My work spans backend
+              systems, AI developer tools, and production infrastructure.
+            </p>
+            <p>
+              At CodeRabbit, I build systems that investigate suspected defects, retain
+              architectural knowledge across reviews, and compare model quality against cost. I
+              focus on evidence, reliable execution, and clear outcomes: approximately 50% higher
+              defect recall in internal evaluations and evaluation capacity increased from 20 to 40
+              concurrent PRs.
+            </p>
+            <p>
+              Before CodeRabbit, I built conversational-platform services at Yellow.ai, including
+              Kafka-driven campaigns, multi-region conversation logs, and incremental service
+              migrations. I also mentor engineering interns and contribute to open-source projects.
+            </p>
+            <p>
+              I earned my MS in Computer Science from{' '}
               <a href="https://www.csusb.edu/" target="_blank" rel="noreferrer">
                 California State University, San Bernardino
-              </a>
-              . My professional journey started back in 2018 with college projects, and that’s where
-              I first experienced the adrenaline rush of shipping real software. Since then, there
-              has been no turning back.
+              </a>{' '}
+              in May 2025. Here are some technologies I work with:
             </p>
-
-            <p>
-              Most of my work has been focused on backend development, though I’ve also had the
-              chance to contribute to frontend projects and infrastructure scaling. I enjoy using my
-              tech stack to create robust, scalable solutions that align with the needs of the
-              project and would love to keep myself updated with various tech stacks
-            </p>
-
-            <p>
-              Right now, I’m currently working at CodeRabbit, an AI-powered code review platform,
-              where I contribute to building scalable systems and enabling developers to ship better
-              software with fewer bugs.
-            </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">

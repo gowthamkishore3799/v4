@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Gowtham Kishore',
     description:
-      'Gowtham Kishore is a software engineer who specializes in building (and occasionally designing) exceptional software priduct experiences.',
-    siteUrl: 'https://main.d2oad3q6c1zdob.amplifyapp.com/', // No trailing slash allowed!
+      'Gowtham Kishore Vijay is a Senior Software Engineer in San Francisco building agentic code review, repository memory, and LLM evaluation systems.',
+    siteUrl: 'https://www.gowtham-kishore.me', // No trailing slash allowed!
     image: '/game.png', // Path to your image you placed in the 'static' folder,
     twitterUsername: '@bchiang7',
   },

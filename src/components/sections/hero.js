@@ -62,32 +62,14 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Gowtham Kishore</h2>;
-  const three = (
-    <h1 className="big-heading">
-      Building scalable solutions that makes a <i>difference</i>
-    </h1>
-  );
+  const three = <h3 className="big-heading">I build AI tools for better code.</h3>;
   const four = (
-    <>
-      <p>
-        I am a engineer with a proven track record of success in dynamic environments. My proficient
-        in languages such as Node.js, Typescript and Python been pivotal in developing cutting-edge
-        software solutions for the IT industry.
-        <br />
-        <br />
-        Currently working at CodeRabbit, an AI-powered code review platform. At CodeRabbit, I focus
-        on building systems and contributing to the open-source community, enabling developers to
-        adopt modern workflows and improve collaboration.
-        <br /> <br /> Passionate about efficiency and precision, I enjoy tackling challenging
-        projects that push me to grow while creating a meaningful impact. Graduated with Master of
-        Science in Computer Science at{' '}
-        <a href="https://www.csusb.edu/" target="_blank" rel="noreferrer">
-          California State University
-        </a>
-        <br />
-        <br />{' '}
-      </p>
-    </>
+    <p>
+      I’m a Senior Software Engineer at <a href="https://www.coderabbit.ai/">CodeRabbit</a>, based
+      in San Francisco. I build agentic code review, long-term repository memory, and evaluation
+      systems that help developers find defects and understand complex codebases. My agentic review
+      work improved recall by approximately 50% over baseline in internal evaluations.
+    </p>
   );
 
   const five = (
